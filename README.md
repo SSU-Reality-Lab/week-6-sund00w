@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/t3AyJokU)
 # 프로젝트
 SVM 모델 관련 실험을 진행하면서 모델의 성능을 평가해보고, 훈련을 진행해봅니다.
 
